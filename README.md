@@ -21,88 +21,21 @@ Bir restorana ait websitesi olarak hazırlanan TasteFoodIt projesinde şık bir 
 - Authorize
 - Session
   
-## Veritabanı
+![Ekran görüntüsü 2024-04-08 185444](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/d0c9dd4d-3623-4525-a347-c66547f6c3f6)
+![Ekran görüntüsü 2024-04-08 191026](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/32c33300-588c-422b-bb80-56b6c4a53497)
+![Ekran görüntüsü 2024-04-08 191009](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/fcb81b21-70ff-4fe4-a0b9-27c515d08dd3)
+![Ekran görüntüsü 2024-04-08 190942](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/9dd4ed59-8846-4627-8ad4-a22a76240cbb)
+![Ekran görüntüsü 2024-04-08 190918](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/1a9e9b76-a6c5-48e7-a7a3-bb01e56e10f5)
+![Ekran görüntüsü 2024-04-08 190901](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/6e8e26a0-d0bd-496c-a2b0-9a1567d24fba)
+![Ekran görüntüsü 2024-04-08 190832](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/7e98ac3a-ed1f-40d5-8358-af8d891173f1)
+![Ekran görüntüsü 2024-04-08 190818](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/5f0e2038-2343-4219-8fa0-d7341e2a2d9c)
+![Ekran görüntüsü 2024-04-08 190758](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/12969929-2d09-4d4b-87e2-685630cecba4)
+![Ekran görüntüsü 2024-04-08 190734](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/6a2ab3d3-825c-4b8f-aefb-fb64d66fc2a9)
+![Ekran görüntüsü 2024-04-08 190701](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/86ac8bae-2f07-468b-a018-96d8713e8d54)
+![Ekran görüntüsü 2024-04-08 190537](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/5351a60d-8827-4816-8ff0-af4fe689c88e)
+![Ekran görüntüsü 2024-04-08 185621](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/17977577-a42d-41d3-bb4d-800dd3a7e1e2)
+![Ekran görüntüsü 2024-04-08 185604](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/7aaa86e3-4bfe-4026-9eda-586c2adfe712)
+![Ekran görüntüsü 2024-04-08 185549](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/eb7ea502-092f-4a82-beef-3a6f276ec808)
+![Ekran görüntüsü 2024-04-08 185530](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/b6affcd8-bc11-47db-b084-d46198d53b5f)
+![Ekran görüntüsü 2024-04-08 185507](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/44b960b2-1ac1-4bae-a08f-81446ebfdbc8)
 ![Screenshot_1](https://github.com/busenurdmb/TasteFoodIt/blob/master/TasteFoodIt/Templates/img/veritaban%C4%B1.png)
-
-## Admin Giriş 
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/1a0f340f-b7c6-45ae-9f7f-be4ee6fb57d2)
-
-## Admin Panel
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/4a063652-53a2-4d26-b0e9-d3ef7df95b79)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/20bc8a2d-aedb-4d5d-b31c-c4f8975c2da9)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/1ab1ffc0-f784-4b37-a679-a1034bb823ad)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/4f20b635-b4ae-4f3c-bb25-850948b96018)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/4ca1be5e-77d9-4287-a433-fbcbe40d34a4)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/3f9afc1b-e964-4fac-af8a-800326c8d3c9)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/df9bbc2a-088d-4d41-9526-abfc10eec572)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/7524219a-3a46-4b1d-b243-8b02ab02896b)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/f745b82d-3109-48bc-bcd5-6dfb7fcee9ab)
-
-
-
-## Kullanıcı Arayüzü
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/cbbb34ef-7dc1-4b35-88c8-ad02de3fef8e)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/39a9fb3d-2ee9-4c68-8cc3-fd5ef9cab733)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/fdeec50f-5a83-4d5a-a9c6-65aa8e87ceb4)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/c24efabc-0788-48ec-b0d1-638a702d174c)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/9b078e69-498d-4fdf-88a5-22ba6da0125e)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/474a4dd4-9742-4d7c-9715-7c8e453be23b)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/3fca37ea-9533-4a5b-bea7-24473b4309d3)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/707897bf-4471-47db-98c4-c01ced0480fc)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/71dd09c1-5e25-4720-9dd2-96e643cba504)
-
-******************************************
-
-![image](https://github.com/talhayildiz99/TasteFoodIt/assets/84921617/97d8fe66-ed96-4b15-a703-019da92b9c34)
-
-
-
-#### Görüş ve Önerileriniz İçin İletişim Bölümünü Kullanmayı Unutmayınız !
