@@ -1,4 +1,4 @@
-###TasteFoodIt Projesi
+TasteFoodIt Projesi
 
 🍽️ Hoş Geldiniz!
 
