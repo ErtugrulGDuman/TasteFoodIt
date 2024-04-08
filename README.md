@@ -1,25 +1,38 @@
-# TasteFoodIt Projesi
-MY Academy kapsamında katılmış olduğum eğitimin ikinci projesi olan TasteFoodIt projesini hayata geçirdim.
-Projede bir Admin Paneli ve bir Kullanıcı Arayüzü bulunömaktadır.
+###TasteFoodIt Projesi
 
-#### Admin Panelinde;
-Tüm CRUD işlemlerini yapıp yönetebildiğimiz bir yapı bizi karşılar.
+🍽️ Hoş Geldiniz!
 
-#### Kullanıcı Arayüzünde;
-Bir restorana ait websitesi olarak hazırlanan TasteFoodIt projesinde şık bir tasarım ile ziyaretçilere restoran hakkında bilgi vererek, rezervasyon-iletişim-menü gibi kreatif arayüzler sağlamaktadır.
+TasteFoodIt projesi, MY Academy'nin ikinci projesi olarak hayata geçirilmiştir. Bu projede, hem bir Admin Paneli hem de Kullanıcı Arayüzü bulunmaktadır.
 
-#### Kullanılan Teknolojiler
-- Asp.Net Framework (C#)
-- MVC
-- Entity Framework (ORM) 6.0
-- Microsoft SQL Server (MSSQL) Veritabanı
-- Nesne Tabanlı Yazılım (OOP)
-- Code First
-- HTML/CSS/Bootstrap/JS
-- LINQ
-- Migration
-- Authorize
-- Session
+👨‍💼 Admin Paneli
+
+Admin Paneli, tüm CRUD işlemlerini kolaylıkla yönetebileceğiniz bir yapıya sahiptir. Bu sayede, proje üzerinde tam kontrol sağlanmaktadır.
+
+👩‍💻 Kullanıcı Arayüzü
+
+Kullanıcı Arayüzü, bir restoran websitesi olarak tasarlanmış olup şık bir görünüme sahiptir. Ziyaretçilere restoran hakkında detaylı bilgiler sunmanın yanı sıra, rezervasyon, iletişim ve menü gibi kreatif arayüzler sunmaktadır.
+
+🛠️ Kullanılan Teknolojiler
+
+-Asp.Net Framework (C#)
+-MVC
+-Entity Framework (ORM) 6.0
+-Microsoft SQL Server (MSSQL) Veritabanı
+-Nesne Tabanlı Yazılım (OOP)
+-Code First
+-HTML/CSS/Bootstrap/JS
+-LINQ
+-Migration
+-Authorize
+-Session
+
+📝 Projeye Katkılarınızı Bekliyoruz!
+
+Bu proje, yenilikçi teknolojiler ve etkili tasarımıyla dikkat çekmektedir. Katkılarınızla projeyi daha da geliştirebilir, kullanıcı deneyimini artırabilirsiniz.
+
+✨ Teşekkürler!
+
+Projemize gösterdiğiniz ilgi ve destek için teşekkür ederiz. İletişime geçmekten lütfen çekinmeyin.
   
 ![Ekran görüntüsü 2024-04-08 185444](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/d0c9dd4d-3623-4525-a347-c66547f6c3f6)
 ![Ekran görüntüsü 2024-04-08 191026](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/32c33300-588c-422b-bb80-56b6c4a53497)
