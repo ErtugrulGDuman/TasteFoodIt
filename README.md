@@ -27,7 +27,6 @@ Bir restorana ait websitesi olarak hazırlanan TasteFoodIt projesinde şık bir 
 ![Ekran görüntüsü 2024-04-08 190942](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/9dd4ed59-8846-4627-8ad4-a22a76240cbb)
 ![Ekran görüntüsü 2024-04-08 190918](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/1a9e9b76-a6c5-48e7-a7a3-bb01e56e10f5)
 ![Ekran görüntüsü 2024-04-08 190901](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/6e8e26a0-d0bd-496c-a2b0-9a1567d24fba)
-![Ekran görüntüsü 2024-04-08 190832](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/7e98ac3a-ed1f-40d5-8358-af8d891173f1)
 ![Ekran görüntüsü 2024-04-08 190818](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/5f0e2038-2343-4219-8fa0-d7341e2a2d9c)
 ![Ekran görüntüsü 2024-04-08 190758](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/12969929-2d09-4d4b-87e2-685630cecba4)
 ![Ekran görüntüsü 2024-04-08 190734](https://github.com/ErtugrulGDuman/TasteFoodIt/assets/101699189/6a2ab3d3-825c-4b8f-aefb-fb64d66fc2a9)
